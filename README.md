@@ -1,1 +1,1 @@
-Creating the DEv-Stg-Prod  Environment infrrastructure through using terraform
+Implemented the DEv-Stg-Prod  Environment infrrastructure through using terraform
